@@ -1,0 +1,5 @@
+Okay, I have added the markup without the PHP in so should be easier to see. 
+Neither solution seems to work in practice. The text at top and bottom 
+cannot be centered and the image should be centered within its container div. 
+The container has overflow hidden so I want 
+to see the center of the image as that's normally where the focus is.
